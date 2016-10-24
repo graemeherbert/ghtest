@@ -1,2 +1,2 @@
 # ghtest
-just a test
+just a test of a branch
